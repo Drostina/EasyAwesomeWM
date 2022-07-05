@@ -48,15 +48,15 @@ First check the dependencies and choose which ones you would like to install.
 
 ### first update with:
 
-ubuntu based: "sudo apt update"
+Ubuntu based: "sudo apt update"
 
-arch based: "sudo pacman -Syu" 
+Arch based: "sudo pacman -Syu" 
 
 ### install packages with:
 
-ubuntu based: "sudo apt install packagename"
+Ubuntu based: "sudo apt install packagename"
 
-arch based: "sudo pacman -S packagename" 
+Arch based: "sudo pacman -S packagename" 
 
 ### Mandatory packages:
 
@@ -93,7 +93,7 @@ In the following image, theme number 1 is selected
 
 ![Theme selection](https://i.imgur.com/EI4Sf5l.png?1)
 
-# Crucial shortcuts
+# Important shortcuts
 super + `:  Rofi
 
 super + R:  Restart Awesome
