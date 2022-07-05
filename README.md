@@ -5,3 +5,6 @@ It is a simple script that will install AwesomeWM and plenty of customised theme
 📝 ❌ If you are a tinkerer and want to setup your own desktop, this project is maybe not for you
 
 NOTE: The setup script is for a fresh install of awesome and the supplied themes and may override your configs, if you wish to keep your config please manually install the dotfiles yourself
+
+# How to install (Automatic)
+Download zip of this repository and "run terminal here" or cd into it, then run "./setup.sh

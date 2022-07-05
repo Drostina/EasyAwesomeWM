@@ -1,0 +1,6 @@
+configuration {
+ modi: "combi";
+ show-icons: true;
+ icon-theme: "papirus";
+ }
+@theme "DarkBlue"
