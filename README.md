@@ -7,6 +7,9 @@ It is a simple script that will install AwesomeWM and plenty of customised theme
 
 NOTE: The setup script is for a fresh install of awesome and the supplied themes and may override your configs, if you wish to keep your config please manually install the dotfiles yourself
 
+This pack is based on a modified version of https://github.com/lcpz/awesome-copycats
+So please show them some love also :)
+
 Super easy to use settings file that syncs with each theme. No more setting up variables for each theme!
 
 ![Settings](https://i.imgur.com/fi4JQkU.png)
