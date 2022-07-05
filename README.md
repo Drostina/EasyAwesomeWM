@@ -65,15 +65,25 @@ awesome: dynamic tiling window manager
 ### optional packages:
 
 alacritty: fast and gpu accelerated terminal emulator
+
 picom: compositor that helps with reducing screen tearing and allows you to add window effects
+
 lxpolkit: Policy kit for priviledges and permission (needed if you are trying to install apps from the software stores)
+
 pavucontrol: for audio control and output/input switch
+
 rofi: application launcher
+
 playerctl: for media buttons to work (i.e if your keyboard has previous, pause, next)
+
 xbacklight: for brightness control
+
 nitrogen: to set wallpapers
+
 lxappearance: to set GTK themes and icons
+
 papirus-icon-theme: set of beautiful icons that can be used with GTK and rofi
+
 flameshot: screenshotting tool
 
 ## Step 3
