@@ -7,7 +7,7 @@ It is a simple script that will install AwesomeWM and plenty of customised theme
 
 NOTE: The setup script is for a fresh install of awesome and the supplied themes and may override your configs, if you wish to keep your config please manually install the dotfiles yourself
 
-This pack is based on a modified version of https://github.com/lcpz/awesome-copycats
+This pack is based on a modified version of https://github.com/lcpz/awesome-copycats 
 So please show them some love also :)
 
 Super easy to use settings file that syncs with each theme. No more setting up variables for each theme!
@@ -50,7 +50,7 @@ first update with:
 ubuntu based: "sudo apt update"
 arch based: "sudo pacman -Syu" 
 
-install packages with -> 
+install packages with:
 ubuntu based: "sudo apt install packagename"
 arch based: "sudo pacman -S packagename" 
 
@@ -74,7 +74,7 @@ flameshot: screenshotting tool
 
 ## Step 3
 
-Choose which ever config folders you need ->
+Choose which ever config folders you need
 
 awesome, rofi or alacritty 
 
@@ -90,9 +90,9 @@ In the following image, theme number 1 is selected
 ![Theme selection](https://i.imgur.com/EI4Sf5l.png?1)
 
 # Crucial shortcuts
-super + ` -> Rofi
-super + R -> Restart Awesome
-super + Q -> Close/Kill Applications
-super + S -> See a cheatsheet of all keybindings
+super + `:  Rofi
+super + R:  Restart Awesome
+super + Q:  Close/Kill Applications
+super + S:  See a cheatsheet of all keybindings
 
 You may change any of these keybindings at any time through the rc.lua config file inside "home/username/.config/awesome"
