@@ -46,19 +46,23 @@ Download a zip of this repository.
 
 First check the dependencies and choose which ones you would like to install.
 
-first update with:
+### first update with:
+
 ubuntu based: "sudo apt update"
+
 arch based: "sudo pacman -Syu" 
 
-install packages with:
+### install packages with:
+
 ubuntu based: "sudo apt install packagename"
+
 arch based: "sudo pacman -S packagename" 
 
-Mandatory packages:
+### Mandatory packages:
 
 awesome: dynamic tiling window manager
 
-optional packages:
+### optional packages:
 
 alacritty: fast and gpu accelerated terminal emulator
 picom: compositor that helps with reducing screen tearing and allows you to add window effects
@@ -91,8 +95,11 @@ In the following image, theme number 1 is selected
 
 # Crucial shortcuts
 super + `:  Rofi
+
 super + R:  Restart Awesome
+
 super + Q:  Close/Kill Applications
+
 super + S:  See a cheatsheet of all keybindings
 
 You may change any of these keybindings at any time through the rc.lua config file inside "home/username/.config/awesome"
