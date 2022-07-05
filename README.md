@@ -7,6 +7,10 @@ It is a simple script that will install AwesomeWM and plenty of customised theme
 
 NOTE: The setup script is for a fresh install of awesome and the supplied themes and may override your configs, if you wish to keep your config please manually install the dotfiles yourself
 
+Super easy to use settings file that syncs with each theme. No more setting up variables for each theme!
+
+![Settings](https://i.imgur.com/fi4JQkU.png)
+
 # Themes
 
 Neon
@@ -73,6 +77,19 @@ awesome, rofi or alacritty
 
 Copy them inside "home/username/.config"
 
-# How to use:
-When the installation has finished, you will find a file called "settings.lua" inside "home/username/.config/awesome"
-This is where you can configure your awesome settings
+# How to use / change themes:
+When the installation has finished, you need to restart and then from your login screen choose the awesome window manager. You will find a file called "settings.lua" inside "home/username/.config/awesome"
+This is where you can configure your awesome settings.
+
+If you want to select a certain theme you can just edit the number inside the brackets "settings.theme[number_here]"
+In the following image, theme number 1 is selected
+
+![Theme selection](https://i.imgur.com/EI4Sf5l.png?1)
+
+# Crucial shortcuts
+super + ` -> Rofi
+super + R -> Restart Awesome
+super + Q -> Close/Kill Applications
+super + S -> See a cheatsheet of all keybindings
+
+You may change any of these keybindings at any time through the rc.lua config file inside "home/username/.config/awesome"
