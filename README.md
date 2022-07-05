@@ -7,6 +7,23 @@ It is a simple script that will install AwesomeWM and plenty of customised theme
 
 NOTE: The setup script is for a fresh install of awesome and the supplied themes and may override your configs, if you wish to keep your config please manually install the dotfiles yourself
 
+# Themes
+
+Neon
+[Imgur](https://imgur.com/6PHbEWn)
+
+Genesis
+[Imgur](https://imgur.com/FUH610d)
+
+Matcha
+[Imgur](https://imgur.com/cVMX0Sj)
+
+RGB
+[Imgur](https://imgur.com/Q9gNjFt)
+
+Calm Red
+[Imgur](https://imgur.com/YxiBQrq)
+
 # How to install (Automatic)
 
 --Experimental--
@@ -50,11 +67,11 @@ flameshot: screenshotting tool
 
 ## Step 3
 
-copy which ever config you need ->
+Choose which ever config folders you need ->
 
 awesome, rofi or alacritty 
 
-inside "home/username/.config"
+Copy them inside "home/username/.config"
 
 # How to use:
 When the installation has finished, you will find a file called "settings.lua" inside "home/username/.config/awesome"
