@@ -26,7 +26,10 @@ dependencies()
     echo "First let's go through the dependencies"
     read -p "(Mandatory) Awesome: the main aspect of this pack (Y/n)" choice
     case "$choice" in 
-    y|Y|"" ) sudo apt install awesome ;;
+    y|Y|"" ) 
+    sudo apt update
+    sudo apt install awesome 
+    ;;
     n|N ) exit ;;
     * ) exit ;;
     esac
@@ -51,6 +54,7 @@ optional()
     y|Y|"" ) sudo apt install alacritty ;;
     esac
 
+    gap
 
     read -p "picom: compositor that helps with reducing screen tearing and allows you to add window effects (Y/n)" choice
     case "$choice" in 
@@ -150,6 +154,8 @@ config()
     ;;
     esac
 
+    gap
+    
     read -p "Do you want to setup the recommended rofi config (if you installed Rofi)? (Y/n)" choice
     case "$choice" in 
     y|Y|"" ) 
@@ -157,6 +163,9 @@ config()
     echo "config copied to: $HOME/.config/rofi"
     ;;
     esac
+
+    clear
+    echo "Finished! Restart and switch to awesome in the login screen."
 }
 
 draw_logo()
