@@ -10,19 +10,19 @@ NOTE: The setup script is for a fresh install of awesome and the supplied themes
 # Themes
 
 Neon
-[Imgur](https://imgur.com/6PHbEWn)
+![Neon](https://i.imgur.com/6PHbEWn.jpg)
 
 Genesis
-[Imgur](https://imgur.com/FUH610d)
+![Genesis](https://i.imgur.com/FUH610d.png)
 
 Matcha
-[Imgur](https://imgur.com/cVMX0Sj)
+![Matcha](https://i.imgur.com/cVMX0Sj.png)
 
 RGB
-[Imgur](https://imgur.com/Q9gNjFt)
+![RGB](https://i.imgur.com/Q9gNjFt.png)
 
 Calm Red
-[Imgur](https://imgur.com/YxiBQrq)
+![Calm Red](https://i.imgur.com/YxiBQrq.png)
 
 # How to install (Automatic)
 
