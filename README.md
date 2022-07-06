@@ -32,6 +32,8 @@ RGB
 Calm Red
 ![Calm Red](https://i.imgur.com/YxiBQrq.png)
 
+Screenshot Album: https://imgur.com/a/VSqS3yu
+
 # How to install (Automatic)
 
 --Experimental--
