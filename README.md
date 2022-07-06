@@ -18,6 +18,7 @@ Super easy to use settings file that syncs with each theme. No more setting up v
 
 Neon
 ![Neon](https://i.imgur.com/6PHbEWn.jpg)
+![Neon](https://i.imgur.com/6OY6uln.png)
 
 Genesis
 ![Genesis](https://i.imgur.com/FUH610d.png)
@@ -99,7 +100,7 @@ When the installation has finished, you need to restart and then from your login
 This is where you can configure your awesome settings.
 
 If you want to select a certain theme you can just edit the number inside the brackets "settings.theme[number_here]"
-In the following image, theme number 1 is selected
+In the following image, theme number 1 is selected. Then restart awesome by pressing "super + R" 
 
 ![Theme selection](https://i.imgur.com/EI4Sf5l.png?1)
 
