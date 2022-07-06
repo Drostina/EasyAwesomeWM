@@ -14,6 +14,7 @@ settings.chosen_theme = settings.themes[1] -- replace number inside of [] with a
 
 settings.enableTitlebar = false -- Set to true if you wish to have title bars on top of applications (i.e to have buttons: close, minimise, etc )
 
+settings.gapsize = 20 -- set your gap size here
 
 ---------- Startup Programs ----------
 

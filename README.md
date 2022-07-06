@@ -18,13 +18,15 @@ Super easy to use settings file that syncs with each theme. No more setting up v
 
 Neon
 ![Neon](https://i.imgur.com/6PHbEWn.jpg)
-![Neon](https://i.imgur.com/6OY6uln.png)
+![Neon](https://i.imgur.com/pmyfZ1m.png)
 
 Genesis
 ![Genesis](https://i.imgur.com/FUH610d.png)
+![Genesis](https://i.imgur.com/F1ktA0x.png)
 
 Matcha
 ![Matcha](https://i.imgur.com/cVMX0Sj.png)
+![Matcha](https://i.imgur.com/uLJRTz7.png)
 
 RGB
 ![RGB](https://i.imgur.com/Q9gNjFt.png)
@@ -32,6 +34,7 @@ RGB
 Calm Red
 ![Calm Red](https://i.imgur.com/YxiBQrq.png)
 
+Ascii art: By DistroTube - https://gitlab.com/dwt1/shell-color-scripts
 Screenshot Album: https://imgur.com/a/VSqS3yu
 
 # How to install (Automatic)
