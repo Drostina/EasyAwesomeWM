@@ -1,4 +1,4 @@
-# What is EasyAwesomeWm? 
+# What is EasyAwesomeWM? 
 
 It is a simple script that will install AwesomeWM and plenty of customised themes alongside your current distro's desktop. I made this for myself to go along with my PopOS setup as I am not a fan of the default gnome desktop.  
 
