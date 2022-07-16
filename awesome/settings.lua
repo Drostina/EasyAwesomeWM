@@ -16,6 +16,8 @@ settings.enableTitlebar = false -- Set to true if you wish to have title bars on
 
 settings.gapsize = 20 -- set your gap size here
 
+settings.focusOnHover = true -- set to false if you don't want the window to focused on mouse hover
+
 ---------- Startup Programs ----------
 
 -- Required package: nitrogen

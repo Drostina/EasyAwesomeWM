@@ -592,9 +592,12 @@ client.connect_signal("request::titlebars", function(c)
     }
 end)
 
+if (settings.focusOnHover == true)
+then
 client.connect_signal("mouse::enter", function(c)
     c:emit_signal("request::activate", "mouse_enter", { raise = true })
 end)
+end
 
 -- No border for maximized clients
 function border_adjust(c)
