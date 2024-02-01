@@ -27,8 +27,8 @@ dependencies()
     read -r -p "(Mandatory) Awesome: the main aspect of this pack (Y/n)" choice
     case "$choice" in 
     y|Y|"" ) 
-    sudo apt update
-    sudo apt install awesome 
+    sudo pacman -Syyu
+    sudo pacman -S awesome 
     ;;
     n|N ) exit ;;
     * ) exit ;;
@@ -153,7 +153,7 @@ install_optional()
 {
     read -r -p "$1""(Y/n)" choice
     case "$choice" in 
-    y|Y|"" ) sudo apt install "$2" ;;
+    y|Y|"" ) sudo pacman -S "$2" ;;
     esac
 }
 
